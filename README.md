@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Deepak (he/im) 👋
 
 <!--
 **dee-kap/dee-kap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
