@@ -3,7 +3,7 @@
 * I am a Fullstack software developer from Sydney Australia.
 
 
-- 🔭 I am Fullstack software developer from Sydney, Australia. For most of my career, I have focused on Web development and APIs
+- 🔭 For most of my career, I have focused on Web development and APIs
 - 🌱 I have written code in many programming languages. These days I enjoy writing **TypeScript**, **Python** and **Ruby**
 - 📚 I love reading and have a personal collection of around 800 books. These are my prized possessions.
 - 💬 I'm always open to a chat about technology, programming and books.
