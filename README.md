@@ -23,6 +23,7 @@ I am a Fullstack software developer from Sydney Australia.
 
 ## Tools and Technologies I'm currently working with
 
+<div style="display:flex;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" title="SASS" width="50" height="50"/> 
@@ -36,6 +37,7 @@ I am a Fullstack software developer from Sydney Australia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 
+</div>
 <!--
 **dee-kap/dee-kap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
