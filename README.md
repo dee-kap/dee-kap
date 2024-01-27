@@ -39,6 +39,3 @@ I am a Fullstack software developer from Sydney Australia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="50" height="50"/>
 
 </div>
-
-<hr style="height: 3em;" />
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-kap)](https://github.com/dee-kap/github-readme-stats)
