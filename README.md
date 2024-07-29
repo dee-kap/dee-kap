@@ -17,9 +17,7 @@ I am a Fullstack software developer from Sydney Australia.
     </a>
 </div>
 
-## Blog
 
-<a href="https://bitofbinary.com" style="font-size: 1.2em">Bit of Binary</a>
 
 ## Tools and Technologies I'm currently working with
 
