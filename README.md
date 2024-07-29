@@ -4,7 +4,7 @@ I am a Fullstack software developer from Sydney Australia.
 
 - 🔭 For most of my career, I have focused on Web development and APIs
 - 🌱 I have written code in many programming languages. These days I enjoy writing **TypeScript**, **Python** and **Ruby**
-- 📚 Beyond the code, I love reading and have a personal collection of around 800 books. These are my prized possessions.
+- 📚 I love reading and have a personal collection of around 800 books. These are my prized possessions.
 - 💬 I'm always open to a chat about technology, programming and books.
 - ⚡ New Zealand is my favourite country. In New Zealand, there is a city called Auckland, in Auckland there is a suburb called Papatoetoe, in Papatoetoe there is a street called Deepak Lane. Of course it is not named after me, but that's what I tell people. Please keep this a secret.
 
