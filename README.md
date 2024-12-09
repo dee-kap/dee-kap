@@ -9,9 +9,6 @@ I am a Fullstack software developer from Sydney Australia.
 - ⚡ New Zealand is my favourite country. In New Zealand, there is a city called Auckland, in Auckland there is a suburb called Papatoetoe, in Papatoetoe there is a street called Deepak Lane. Of course it is not named after me, but that's what I tell people. Please keep this a secret.
 
 <div style="margin-top:3em;">
-    <a href="https://twitter.com/bitofbinary">
-        <img height="30" alt="Twitter - BitOfBinary" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="margin-right: 10px;" />
-    </a>
     <a href="https://www.linkedin.com/in/kapoordeepak/">
         <img height="30" alt="LinkedIn - Deepak Kapoor" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
     </a>
